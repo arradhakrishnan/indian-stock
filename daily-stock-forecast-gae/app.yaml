@@ -1,9 +1,3 @@
-application: daily-stock-forecast
-version: 1
-runtime: python27
-api_version: 1
-threadsafe: true
-
 handlers:
 - url: /favicon.png
   static_files: favicon.png
